@@ -8,5 +8,6 @@ hello Git!!
 hello Git!!
 hello Git!!
 hello Git!!
-hi java!
 master test!
+hi java! hotfix test!
+
